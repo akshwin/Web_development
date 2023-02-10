@@ -1,0 +1,14 @@
+/*
+
+DATATYPES 
+
+STRING
+NUMBERS  
+BOOLEAN 
+
+VARIABLES
+
+
+
+*/
+
